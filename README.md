@@ -25,7 +25,7 @@ This code consists of an inventory and product management project, developed for
 
 <li> Unit testing, Junit, Mock, mockito;</li>
 
-<li> Jcoco and coverage.</li>
+<li> Jacoco and coverage.</li>
 
 </ul>
 
